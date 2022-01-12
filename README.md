@@ -3,7 +3,7 @@ PPICT: a novel integrated deep neural network, which predicts PTM cross-talk by 
 combining protein sequence-structural information and protein pair network structural information.
 PPICT is an integrated deep learning architecture that can be divided into three distinct subnets, including
 sequence structure feature pre-processed sub-network (Pre-W net), PPIs and cross-talk graph feature coding sub-network (PPIG net) and heterogeneous feature combination subnet (HRF net).  
-![PPICT_framework](https://github.com/DL0520/PPICT/IMG/Flowchart.png)
+![Image](https://github.com/DL0520/PPICT/IMG/Flowchart.png)
 
 # System requirement  
 PPICT is develpoed under Linux environment with:  
